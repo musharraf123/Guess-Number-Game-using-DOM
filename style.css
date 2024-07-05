@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(88, 21, 21);
+    display: inline;
+}
+body{
+    background-color: rgb(32, 53, 23);
+    color: aqua;
+}
+#subt{
+    border-radius:15px ;
+}
+.guessField{
+    background-color:lightseagreen;
+}
+#wrapper{
+    color: balck;
+}
